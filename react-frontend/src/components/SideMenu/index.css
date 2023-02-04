@@ -1,0 +1,40 @@
+.side-menu{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.side-menu-buttons{    
+    display: flex;    
+    
+    flex-direction: column;
+    gap: 8px;
+    
+}
+
+.side-menu-logout{
+    display: flex;
+    flex-direction: column;
+   padding-top: 50px;
+   
+    
+    
+}
+
+.side-menu-button{    
+    display: flex;   
+    width: 100%;
+    flex-direction: row; 
+    justify-content: flex-start;
+    gap: 8px;
+    
+    
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 16px ;
+    padding-bottom: 80px;
+}

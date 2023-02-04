@@ -1,0 +1,18 @@
+.page{
+    display: flex;
+    justify-content: flex-start;
+    gap: 120px;  
+}
+
+.formul-center{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap:20px;
+    width: 300px;
+}
+.butonul{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 30px;
+}

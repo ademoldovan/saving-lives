@@ -1,0 +1,22 @@
+.divul{
+    
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.formul{
+    display: flex;
+    justify-content: flex-start;
+    gap:64px;
+}
+.butonul{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 30px;
+}
+.dada{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,24 @@
+.news{
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  justify-content: flex-start;
+}
+.noutate {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 4px 0 rgba(0, 0, 0, 0.08);
+  }
+  .noutate4 {
+    display: flex;
+    width: 22%;
+    flex-direction: column;
+    box-shadow: 2px 0 4px 0 rgba(0, 0, 0, 0.08);
+  }
+  
+  .modal-imobil{
+    display: flex;
+    height: 1000px;
+    width: 1000px;
+    gap:50px;
+}

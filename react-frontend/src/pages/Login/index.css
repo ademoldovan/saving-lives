@@ -1,0 +1,32 @@
+.flex-container-center {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+}
+.flex-container-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  height: 100%;
+  width: 300px;
+}
+.flex-container-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  height: 100%;
+  width: 300px;
+}
+.flex-container-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}

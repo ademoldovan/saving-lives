@@ -1,0 +1,24 @@
+.divul-profile{
+    
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.formul-profile{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+    gap:64px;
+}
+.butonul-profile{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 30px;
+}
+.dada-profile{
+    
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,9 @@
+.div-add-button {
+  display: flex;
+  flex-direction: row-reverse;
+  padding-bottom: 16px;
+}
+.centruuuu {
+  display: flex;
+  justify-content: center;
+}
